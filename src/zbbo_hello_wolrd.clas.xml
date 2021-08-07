@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZBBO_HELLO_WOLRD</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>hello world</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_HELLO_WOLRD</CLSNAME>
+     <CMPNAME>GET_AREA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>get area</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_HELLO_WOLRD</CLSNAME>
+     <CMPNAME>GET_PI</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>get pi</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_HELLO_WOLRD</CLSNAME>
+     <CMPNAME>GET_RADIUS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>get radius</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_HELLO_WOLRD</CLSNAME>
+     <CMPNAME>MAIN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>hello world</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_HELLO_WOLRD</CLSNAME>
+     <CMPNAME>SET_PI</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>set pi</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_HELLO_WOLRD</CLSNAME>
+     <CMPNAME>SET_RADIUS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>set radius</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

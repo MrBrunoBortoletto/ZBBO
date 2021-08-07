@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZBBO_CALCULATOR</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Basic Calculator</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_CALCULATOR</CLSNAME>
+     <CMPNAME>ADDITION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Adds</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_CALCULATOR</CLSNAME>
+     <CMPNAME>DIVISION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Divides</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_CALCULATOR</CLSNAME>
+     <CMPNAME>FIBONACCI</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Fibonacci segment</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_CALCULATOR</CLSNAME>
+     <CMPNAME>MULTIPLICATION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Multiplies</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_CALCULATOR</CLSNAME>
+     <CMPNAME>SUBTRACTION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Subtracts</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

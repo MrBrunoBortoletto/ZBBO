@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZBBO_INFC_DATE</ROLLNAME>
+    <DOMNAME>ZBBO_D_DATE</DOMNAME>
+    <HEADLEN>25</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>23</SCRLEN3>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <SYST_--2DLANGU>E</SYST_--2DLANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Infected&apos;s Diagnosis Date</DDTEXT>
+     <REPTEXT>Infected&apos;s Diagnosis Date</REPTEXT>
+     <SCRTEXT_S>INFDA</SCRTEXT_S>
+     <SCRTEXT_M>INF_DIAG_DAT</SCRTEXT_M>
+     <SCRTEXT_L>INFECTED_DIAGNOSIS_DATE</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

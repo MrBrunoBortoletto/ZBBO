@@ -1,0 +1,2 @@
+{"version":"1.0.0","results":{"@sap/di.code-validation.js":{"issues":{"webapp/controller/Hello_WorldView.controller.js":[{"category":"Possible Error","checker":"ESLint","column":4,"helpUrl":"http://eslint.org/docs/rules/comma-dangle","line":15,"message":+
+"Unexpected trailing comma.","path":"webapp/controller/Hello_WorldView.controller.js","ruleId":"comma-dangle","severity":"warning"}]}},"@sap/di.code-validation.xml":{"issues":{}},"@sap/di.code-validation.json":{"issues":{}}}}                              

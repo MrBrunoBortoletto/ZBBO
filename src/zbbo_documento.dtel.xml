@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZBBO_DOCUMENTO</ROLLNAME>
+    <DDLANGUAGE>P</DDLANGUAGE>
+    <HEADLEN>24</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>09</SCRLEN2>
+    <SCRLEN3>15</SCRLEN3>
+    <DDTEXT>Documentos do Fornecedor</DDTEXT>
+    <REPTEXT>Documentos do Fornecedor</REPTEXT>
+    <SCRTEXT_S>DOCFN</SCRTEXT_S>
+    <SCRTEXT_M>DOC_FORNE</SCRTEXT_M>
+    <SCRTEXT_L>DOCUMENTO_FORNE</SCRTEXT_L>
+    <DTELMASTER>P</DTELMASTER>
+    <DATATYPE>NUMC</DATATYPE>
+    <LENG>000010</LENG>
+    <OUTPUTLEN>000010</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

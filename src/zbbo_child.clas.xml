@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZBBO_CHILD</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>classe filha</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_CHILD</CLSNAME>
+     <CMPNAME>GET_CHILD_AREA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>get child area</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZBBO_CHILD</CLSNAME>
+     <CMPNAME>SET_AREA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>set area</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZBBO_QUANTIDADE</ROLLNAME>
+    <DDLANGUAGE>P</DDLANGUAGE>
+    <HEADLEN>24</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>07</SCRLEN2>
+    <SCRLEN3>12</SCRLEN3>
+    <DDTEXT>Quantidade do Fornecedor</DDTEXT>
+    <REPTEXT>Quantidade do Fornecedor</REPTEXT>
+    <SCRTEXT_S>QUAFN</SCRTEXT_S>
+    <SCRTEXT_M>QUA_FOR</SCRTEXT_M>
+    <SCRTEXT_L>QUANTI_FORNE</SCRTEXT_L>
+    <ACTFLAG>I</ACTFLAG>
+    <DTELMASTER>P</DTELMASTER>
+    <RESERVEDTE>JB</RESERVEDTE>
+    <DATATYPE>QUAN</DATATYPE>
+    <LENG>000015</LENG>
+    <DECIMALS>000004</DECIMALS>
+    <OUTPUTLEN>000019</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

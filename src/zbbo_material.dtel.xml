@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZBBO_MATERIAL</ROLLNAME>
+    <DDLANGUAGE>P</DDLANGUAGE>
+    <HEADLEN>23</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>07</SCRLEN2>
+    <SCRLEN3>14</SCRLEN3>
+    <DDTEXT>Material do Fornecedor</DDTEXT>
+    <REPTEXT>Material do Forncedor</REPTEXT>
+    <SCRTEXT_S>MATFN</SCRTEXT_S>
+    <SCRTEXT_M>MAT_FOR</SCRTEXT_M>
+    <SCRTEXT_L>MATERIAL_FORNE</SCRTEXT_L>
+    <DTELMASTER>P</DTELMASTER>
+    <DATATYPE>NUMC</DATATYPE>
+    <LENG>000018</LENG>
+    <OUTPUTLEN>000018</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <SYST_--2DLANGU>E</SYST_--2DLANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Supplier of Material</DDTEXT>
+     <REPTEXT>Supplier of Material</REPTEXT>
+     <SCRTEXT_L>SUPMA</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
